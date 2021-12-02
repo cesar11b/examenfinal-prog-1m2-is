@@ -8,7 +8,7 @@ namespace Domain.Entities
 {
     public class Notas
     {
-         public Nota(Estudiante estudiante)
+         public Notas(Estudiante estudiante)
         {
             Estudiante = estudiante;
         }
