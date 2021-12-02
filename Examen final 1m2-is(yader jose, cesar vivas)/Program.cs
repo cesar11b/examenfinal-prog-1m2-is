@@ -16,7 +16,7 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Registro());
         }
     }
 }

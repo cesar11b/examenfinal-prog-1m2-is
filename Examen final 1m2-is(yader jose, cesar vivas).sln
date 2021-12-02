@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen final 1m2-is(yader jose, cesar vivas)", "Examen final 1m2-is(yader jose, cesar vivas)\Examen final 1m2-is(yader jose, cesar vivas).csproj", "{9C6BA7A7-15CA-4B56-8A6A-2839C738C227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B6CEA7E1-B282-4651-A7B2-95786538EE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C6BA7A7-15CA-4B56-8A6A-2839C738C227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C6BA7A7-15CA-4B56-8A6A-2839C738C227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C6BA7A7-15CA-4B56-8A6A-2839C738C227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CEA7E1-B282-4651-A7B2-95786538EE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CEA7E1-B282-4651-A7B2-95786538EE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CEA7E1-B282-4651-A7B2-95786538EE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CEA7E1-B282-4651-A7B2-95786538EE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
