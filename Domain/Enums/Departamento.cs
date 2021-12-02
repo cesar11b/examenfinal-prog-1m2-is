@@ -9,5 +9,17 @@ namespace Domain.Enums
     public enum Departamento
     {
 
+
+
+Boaco,
+        Carazo,
+        Chinandega,
+        Esteli,
+        Granada,
+        Jinotega,
+        Managua,
+        Masaya,
+        Matagalpa
+
     }
 }
