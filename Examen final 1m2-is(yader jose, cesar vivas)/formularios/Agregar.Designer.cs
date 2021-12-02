@@ -41,6 +41,7 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios
             this.txtIngCar = new System.Windows.Forms.TextBox();
             this.cmbIngMun = new System.Windows.Forms.ComboBox();
             this.cmbIngDepto = new System.Windows.Forms.ComboBox();
+            this.btnAgrNotas = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -129,6 +130,15 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios
             // cmbIngMun
             // 
             this.cmbIngMun.FormattingEnabled = true;
+            this.cmbIngMun.Items.AddRange(new object[] {
+            "Managua",
+            "Ciudada_Sandino",
+            "El_Crucero",
+            "Mateare",
+            "San_Framcisco_Libre",
+            "San_Rafael_del_sur",
+            "Ticuantepe",
+            "Tipitapa"});
             this.cmbIngMun.Location = new System.Drawing.Point(144, 231);
             this.cmbIngMun.Name = "cmbIngMun";
             this.cmbIngMun.Size = new System.Drawing.Size(121, 21);
@@ -137,16 +147,37 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios
             // cmbIngDepto
             // 
             this.cmbIngDepto.FormattingEnabled = true;
+            this.cmbIngDepto.Items.AddRange(new object[] {
+            "Chinandega",
+            "Esteli",
+            "Granada",
+            "Jinotega",
+            "Managua",
+            "Masaya",
+            "Matagalpa",
+            "Carazo",
+            "Boaco"});
             this.cmbIngDepto.Location = new System.Drawing.Point(144, 279);
             this.cmbIngDepto.Name = "cmbIngDepto";
             this.cmbIngDepto.Size = new System.Drawing.Size(121, 21);
             this.cmbIngDepto.TabIndex = 11;
+            // 
+            // btnAgrNotas
+            // 
+            this.btnAgrNotas.Location = new System.Drawing.Point(351, 363);
+            this.btnAgrNotas.Name = "btnAgrNotas";
+            this.btnAgrNotas.Size = new System.Drawing.Size(75, 23);
+            this.btnAgrNotas.TabIndex = 12;
+            this.btnAgrNotas.Text = "Agregar notas";
+            this.btnAgrNotas.UseVisualStyleBackColor = true;
+            this.btnAgrNotas.Click += new System.EventHandler(this.btnAgrNotas_Click);
             // 
             // Agregar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(522, 450);
+            this.Controls.Add(this.btnAgrNotas);
             this.Controls.Add(this.cmbIngDepto);
             this.Controls.Add(this.cmbIngMun);
             this.Controls.Add(this.txtIngCar);
@@ -180,5 +211,6 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios
         private System.Windows.Forms.TextBox txtIngCar;
         private System.Windows.Forms.ComboBox cmbIngMun;
         private System.Windows.Forms.ComboBox cmbIngDepto;
+        private System.Windows.Forms.Button btnAgrNotas;
     }
 }

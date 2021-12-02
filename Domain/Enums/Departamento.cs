@@ -11,15 +11,16 @@ namespace Domain.Enums
 
 
 
-Boaco,
-        Carazo,
+
         Chinandega,
         Esteli,
         Granada,
         Jinotega,
         Managua,
         Masaya,
-        Matagalpa
+        Matagalpa,
+        Carazo,
+        Boaco
 
     }
 }

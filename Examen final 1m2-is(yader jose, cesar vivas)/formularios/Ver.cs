@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,28 +10,15 @@ using System.Windows.Forms;
 
 namespace Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios
 {
-    public partial class Agregar : Form
+    public partial class Ver : Form
     {
-        ArrayList estudiante;
-
-
-        public Agregar()
+        public Ver()
         {
             InitializeComponent();
-
-            estudiante = new ArrayList;
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
-        }
-
-        private void btnAgrNotas_Click(object sender, EventArgs e)
-        {
-
-
-
 
         }
     }
