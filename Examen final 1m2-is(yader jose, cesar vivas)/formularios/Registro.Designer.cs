@@ -28,25 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnAgregarEst = new System.Windows.Forms.Button();
+            this.btnMostrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnAgregarEst
             // 
-            this.button1.Location = new System.Drawing.Point(36, 390);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Aceptar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnAgregarEst.Location = new System.Drawing.Point(22, 62);
+            this.btnAgregarEst.Name = "btnAgregarEst";
+            this.btnAgregarEst.Size = new System.Drawing.Size(133, 23);
+            this.btnAgregarEst.TabIndex = 0;
+            this.btnAgregarEst.Text = "Agregar Estudiante";
+            this.btnAgregarEst.UseVisualStyleBackColor = true;
+            this.btnAgregarEst.Click += new System.EventHandler(this.btnAgregarEst_Click);
             // 
-            // Form1
+            // btnMostrar
+            // 
+            this.btnMostrar.Location = new System.Drawing.Point(22, 115);
+            this.btnMostrar.Name = "btnMostrar";
+            this.btnMostrar.Size = new System.Drawing.Size(75, 23);
+            this.btnMostrar.TabIndex = 1;
+            this.btnMostrar.Text = "Mostrar";
+            this.btnMostrar.UseVisualStyleBackColor = true;
+            // 
+            // Registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Controls.Add(this.btnMostrar);
+            this.Controls.Add(this.btnAgregarEst);
+            this.Name = "Registro";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -55,7 +67,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnAgregarEst;
+        private System.Windows.Forms.Button btnMostrar;
     }
 }
 

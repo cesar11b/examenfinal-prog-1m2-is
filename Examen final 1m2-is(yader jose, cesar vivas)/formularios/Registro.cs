@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +20,14 @@ namespace Examen_final_1m2_is_yader_jose__cesar_vivas_
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void btnAgregarEst_Click(object sender, EventArgs e)
+        {
+
+            Agregar Cambio = new Agregar();
+            Cambio.ShowDialog();
 
         }
     }

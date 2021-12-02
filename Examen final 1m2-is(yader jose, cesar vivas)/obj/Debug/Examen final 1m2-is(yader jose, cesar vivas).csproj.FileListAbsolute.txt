@@ -1,0 +1,11 @@
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\bin\Debug\Examen final 1m2-is(yader jose, cesar vivas).exe.config
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\bin\Debug\Examen final 1m2-is(yader jose, cesar vivas).exe
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\bin\Debug\Examen final 1m2-is(yader jose, cesar vivas).pdb
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen final 1m2-is(yader jose, cesar vivas).csproj.AssemblyReference.cache
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen_final_1m2_is_yader_jose__cesar_vivas_.formularios.Agregar.resources
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen_final_1m2_is_yader_jose__cesar_vivas_.Registro.resources
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen_final_1m2_is_yader_jose__cesar_vivas_.Properties.Resources.resources
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen final 1m2-is(yader jose, cesar vivas).csproj.GenerateResource.cache
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen final 1m2-is(yader jose, cesar vivas).csproj.CoreCompileInputs.cache
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen final 1m2-is(yader jose, cesar vivas).exe
+C:\Users\JADPA_25\source\repos\Examen\Examen final 1m2-is(yader jose, cesar vivas)\obj\Debug\Examen final 1m2-is(yader jose, cesar vivas).pdb
