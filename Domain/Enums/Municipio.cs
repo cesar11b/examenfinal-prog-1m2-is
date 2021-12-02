@@ -9,11 +9,11 @@ namespace Domain.Enums
     public enum Municipio
     {
     Managua,
-    Ciudada Sandino,
-    El Crucero,
+    Ciudada_Sandino,
+    El_Crucero,
     Mateare,
-    San Framcisco Libre,
-    San Rafael del sur,
+    San_Framcisco_Libre,
+    San_Rafael_del_sur,
     Ticuantepe,
     Tipitapa,
     }
