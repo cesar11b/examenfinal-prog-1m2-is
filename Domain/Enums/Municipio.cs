@@ -8,14 +8,13 @@ namespace Domain.Enums
 {
     public enum Municipio
     {
- 
- Contabilidad,
-       Sociologia,
-       Matematica_2,
-       Ingles_2,
-       Algebra_Lineal,
-       Programacion_1,
-
-
+    Managua,
+    Ciudada Sandino,
+    El Crucero,
+    Mateare,
+    San Framcisco Libre,
+    San Rafael del sur,
+    Ticuantepe,
+    Tipitapa,
     }
 }
